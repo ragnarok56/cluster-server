@@ -11,7 +11,7 @@ python manage.py runserver 0.0.0.0:8001
 ## ui
 vite + react
 
-url for server is hardcoded to localhost:8001 in index.html
+url for server is hardcoded to localhost:8001 in `App.tsx`
 
 ```
 cd ui
